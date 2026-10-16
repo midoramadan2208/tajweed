@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://midoramadan2208.github.io/tajweed/sitemap.xml
